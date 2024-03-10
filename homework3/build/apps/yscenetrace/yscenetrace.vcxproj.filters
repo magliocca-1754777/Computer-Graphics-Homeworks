@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\kikka\Desktop\computer graphics\homework3\out\apps\yscenetrace\yscenetrace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kikka\Desktop\computer graphics\homework3\out\apps\yscenetrace\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D0CA9F89-E020-30C3-9D25-0AEB16D132C3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

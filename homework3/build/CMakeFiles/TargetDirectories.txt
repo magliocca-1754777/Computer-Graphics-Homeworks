@@ -1,0 +1,9 @@
+C:/Users/kikka/Desktop/computer graphics/homework3/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/kikka/Desktop/computer graphics/homework3/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/kikka/Desktop/computer graphics/homework3/build/exts/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/kikka/Desktop/computer graphics/homework3/build/exts/glfw/src/CMakeFiles/glfw.dir
+C:/Users/kikka/Desktop/computer graphics/homework3/build/libs/yocto/CMakeFiles/yocto.dir
+C:/Users/kikka/Desktop/computer graphics/homework3/build/libs/yocto_gui/CMakeFiles/yocto_gui.dir
+C:/Users/kikka/Desktop/computer graphics/homework3/build/apps/yscenegen/CMakeFiles/yscenegen.dir
+C:/Users/kikka/Desktop/computer graphics/homework3/build/apps/yscenetrace/CMakeFiles/yscenetrace.dir
+C:/Users/kikka/Desktop/computer graphics/homework3/build/apps/ysceneitraces/CMakeFiles/ysceneitraces.dir
